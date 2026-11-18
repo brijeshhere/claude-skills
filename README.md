@@ -13,3 +13,8 @@ Forked from the [mattpocock-skills](https://github.com/mattpocock/skills) plugin
 - `grilling`: asks each round's questions via selectable AskUserQuestion forms (recommended option first) instead of numbered markdown; looks up facts inline.
 - `research`: saves findings to the current working directory as `research-<short-kebab-topic>.md`.
 - `handoff`: saves to the current working directory as `handoff-<YYYY-MM-DD-HHMM>.md`, never to temp dirs.
+- `caveman`: terse voice; core skill only, extras removed. See `caveman/SETUP.md`.
+
+## Licensing
+
+Root MIT (see LICENSE) covers grilling/research/handoff. `caveman/` is Apache-2.0 (see `caveman/LICENSE`).
